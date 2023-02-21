@@ -1,0 +1,152 @@
+[
+    {
+        "name": "Let Her Go",
+        "artist": "Passenger",
+        "image": "https://images.pexels.com/photos/3100835/pexels-photo-3100835.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
+        "path": "Songs/Passenger - Let Her Go.mp3"
+    },
+    {
+        "name": "Broken",
+        "artist": "Anson Seabra",
+        "image": "https://images.pexels.com/photos/3100835/pexels-photo-3100835.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
+        "path": "Songs/Anson Seabra - Broken.mp3"
+    },
+    {
+        "name": "Memories",
+        "artist": "Shawn Mendes",
+        "image": "https://images.pexels.com/photos/3100835/pexels-photo-3100835.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
+        "path": "Songs/Shawn Mendes - Memories.mp3"
+    },
+    {
+        "name": "Can You Hold Me  Britt Nicole",
+        "artist": "NF",
+        "image": "https://images.pexels.com/photos/3100835/pexels-photo-3100835.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
+        "path": "Songs/NF - Can You Hold Me  Britt Nicole.mp3"
+    },
+    {
+        "name": "Goodnight Goodbye",
+        "artist": "Mree",
+        "image": "https://images.pexels.com/photos/3100835/pexels-photo-3100835.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
+        "path": "Songs/Mree - Goodnight Goodbye.mp3"
+    },
+    {
+        "name": "Suffocate",
+        "artist": "Hayd",
+        "image": "https://images.pexels.com/photos/3100835/pexels-photo-3100835.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
+        "path": "Songs/Hayd - Suffocate.mp3"
+    },
+    {
+        "name": "Safe Sound",
+        "artist": "Hayd",
+        "image": "https://images.pexels.com/photos/3100835/pexels-photo-3100835.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
+        "path": "Songs/Hayd - Safe Sound.mp3"
+    },
+    {
+        "name": "12 45",
+        "artist": "Etham",
+        "image": "https://images.pexels.com/photos/3100835/pexels-photo-3100835.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
+        "path": "Songs/Etham - 12 45.mp3"
+    },
+    {
+        "name": "Don t Forget About Me",
+        "artist": "Chris James",
+        "image": "https://images.pexels.com/photos/3100835/pexels-photo-3100835.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
+        "path": "Songs/Chris James - Don t Forget About Me.mp3"
+    },
+    {
+        "name": "If He Isn t Me",
+        "artist": "Brooks Barry",
+        "image": "https://images.pexels.com/photos/3100835/pexels-photo-3100835.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
+        "path": "Songs/Brooks Barry - If He Isn t Me.mp3"
+    },
+    {
+        "name": "Someone To You",
+        "artist": "BANNERS",
+        "image": "https://images.pexels.com/photos/3100835/pexels-photo-3100835.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
+        "path": "Songs/BANNERS - Someone To You.mp3"
+    },
+    {
+        "name": "Runaway",
+        "artist": "AURORA",
+        "image": "https://images.pexels.com/photos/3100835/pexels-photo-3100835.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
+        "path": "Songs/AURORA - Runaway.mp3"
+    },
+    {
+        "name": "Never Be Alone",
+        "artist": "Shawn Mendes",
+        "image": "https://images.pexels.com/photos/3100835/pexels-photo-3100835.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
+        "path": "Songs/Shawn Mendes - Never Be Alone.mp3"
+    },
+    {
+        "name": "House of Glass",
+        "artist": "Jon Caryl",
+        "image": "https://images.pexels.com/photos/3100835/pexels-photo-3100835.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
+        "path": "Songs/Jon Caryl - House of Glass.mp3"
+    },
+    {
+        "name": "Somewhere Only We Know",
+        "artist": "Renee Dominique",
+        "image": "https://images.pexels.com/photos/3100835/pexels-photo-3100835.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
+        "path": "Songs/Renee Dominique - Somewhere Only We Know.mp3"
+    },
+    {
+        "name": "You and I",
+        "artist": "One Direction",
+        "image": "https://images.pexels.com/photos/3100835/pexels-photo-3100835.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
+        "path": "Songs/One Direction - You and I.mp3"
+    },
+    {
+        "name": "A Little Braver",
+        "artist": "New Empire",
+        "image": "https://images.pexels.com/photos/3100835/pexels-photo-3100835.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
+        "path": "Songs/New Empire - A Little Braver.mp3"
+    },
+    {
+        "name": "Hurricane",
+        "artist": "Fleurie",
+        "image": "https://images.pexels.com/photos/3100835/pexels-photo-3100835.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
+        "path": "Songs/Fleurie - Hurricane.mp3"
+    },
+    {
+        "name": "Hold On",
+        "artist": "Chord Overstreet",
+        "image": "https://images.pexels.com/photos/3100835/pexels-photo-3100835.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
+        "path": "Songs/Chord Overstreet - Hold On.mp3"
+    },
+    {
+        "name": "You can be king again",
+        "artist": "Unknown",
+        "image": "https://images.pexels.com/photos/3100835/pexels-photo-3100835.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
+        "path": "Songs/you can be king again.mp3"
+    },
+    {
+        "name": "Never Fade",
+        "artist": "Katelyn Tarver",
+        "image": "https://images.pexels.com/photos/3100835/pexels-photo-3100835.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
+        "path": "Songs/Katelyn Tarver - Never Fade.mp3"
+    },
+    {
+        "name": "Hard Sometimes",
+        "artist": "Ruel",
+        "image": "https://images.pexels.com/photos/3100835/pexels-photo-3100835.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
+        "path": "Songs/Ruel - Hard Sometimes.mp3"
+    },
+    {
+        "name": "Love The Way You Lie",
+        "artist": "Anson Seabra",
+        "image": "https://images.pexels.com/photos/3100835/pexels-photo-3100835.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
+        "path": "Songs/Anson Seabra - Love The Way You Lie.mp3"
+    },
+    {
+        "name": "When You're Home",
+        "artist": "Tyler Shaw",
+        "image": "https://images.pexels.com/photos/3100835/pexels-photo-3100835.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
+        "path": "Songs/Tyler Shaw - When You're Home.mp3"
+    },
+    {
+        "name": "Trying My Best",
+        "artist": "Anson Seabra",
+        "image": "https://images.pexels.com/photos/3100835/pexels-photo-3100835.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
+        "path": "Songs/Anson Seabra - Trying My Best.mp3"
+    }
+]
