@@ -1,0 +1,3 @@
+- uses: actions/checkout@v3
+  - uses: FedericoCarboni/setup-ffmpeg@v2
+    id: setup-ffmpeg
